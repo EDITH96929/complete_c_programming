@@ -25,3 +25,8 @@ The repository is structured into multiple categories based on different C progr
 ✔ Well-structured **folder organization** for easy navigation  
 ✔ **Practical implementation** of core concepts  
 ✔ Useful for **students, beginners, and programming enthusiasts**  
+
+## 🚀 How to Use  
+1. **Clone the repository** using Git:  
+   ```sh
+   git clone https://github.com/EDITH96929/complete_c_programming.git
