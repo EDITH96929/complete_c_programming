@@ -18,3 +18,9 @@ The repository is structured into multiple categories based on different C progr
 - **DateandTime11** - Programs related to date and time manipulation  
 - **StructuresandUnions** - Implementation of structures, unions, and typedef  
 - **MoreCPrograms** - Miscellaneous C programs beyond the categorized topics  
+
+## 🔥 Features  
+✔ Covers **beginner to advanced** level C programming concepts  
+✔ Well-structured **folder organization** for easy navigation  
+✔ **Practical implementation** of core concepts  
+✔ Useful for **students, beginners, and programming enthusiasts**  
