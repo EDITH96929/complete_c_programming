@@ -11,7 +11,8 @@ The repository is structured into multiple categories based on different C progr
 - **patternProgram3** - Star, number, and character pattern programs  
 - **function4** - Functions, recursion, and modular programming  
 - **arrays5** - One-dimensional and multi-dimensional arrays  
-- **Strings6** - String handling functions and operations  
+- **Strings6** - String handling functions and operations
+- 
 - **Conversions7** - Programs for unit and number system conversions  
 - **Pointers8** - Pointer concepts including pointer arithmetic and dynamic memory allocation  
 - **FileIO10** - File handling operations (reading, writing, appending)  
